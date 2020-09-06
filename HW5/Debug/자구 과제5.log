@@ -1,0 +1,24 @@
+﻿  multi_linked_list.c
+C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\multi_linked_list.c(84,36): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\multi_linked_list.c(84,36): message : 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\multi_linked_list.c(57,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\multi_linked_list.c(80,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\multi_linked_list.c(84,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\multi_linked_list.c(91,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\multi_linked_list.c(92,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\multi_linked_list.c(93,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\multi_linked_list.c(103,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\multi_linked_list.c(104,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\multi_linked_list.c(105,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\multi_linked_list.c(143,8): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\multi_linked_list.c(200,13): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  자구 과제5.vcxproj -> C:\Users\97kth\OneDrive\바탕 화면\자구 과제5\Debug\자구 과제5.exe
